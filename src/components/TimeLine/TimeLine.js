@@ -46,7 +46,9 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      The purpose of JavaScript Mastery is to help aspiring and established developers to take their development skills to the next level and build awesome apps.
+      I'm a Forward-thinking Software Developer With Background Working Productivity in Dynamic Envairoments. Fluent in React,
+Nextjs, Redux, Redux-thunk, for Front-end and Node, Express, MongoDB, Mongoose schema for data object modelling, Postgresql
+and Firebase.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
